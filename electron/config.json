@@ -1,0 +1,24 @@
+{
+  "ffmpegBin": {
+    "darwin": {
+      "ffmpeg": {
+        "url": "https://cdn.nugget.cartesiancs.com/ffmpeg",
+        "filename": "ffmpeg"
+      },
+      "ffprobe": {
+        "url": "https://cdn.nugget.cartesiancs.com/ffprobe",
+        "filename": "ffprobe"
+      }
+    },
+    "win32": {
+      "ffmpeg": {
+        "url": "https://cdn.nugget.cartesiancs.com/ffmpeg.exe",
+        "filename": "ffmpeg.exe"
+      },
+      "ffprobe": {
+        "url": "https://cdn.nugget.cartesiancs.com/ffprobe.exe",
+        "filename": "ffprobe.exe"
+      }
+    }
+  }
+}
